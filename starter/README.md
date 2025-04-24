@@ -2,6 +2,8 @@
 ## Project: Finding Donors for CharityML
 
 ### Install
+***
+Andrew Ziemba 2025-04-24
 
 This project requires **Python 3.x** and the following Python libraries installed:
 
